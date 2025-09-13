@@ -1,5 +1,3 @@
-# LMS-Loan-Management-System
-
 # Loan Management System (LMS) 💰
 
 A **Full-Stack Loan Management System** built to manage loan applications, approvals, EMI schedules, payments, and penalties.
