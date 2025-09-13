@@ -34,15 +34,6 @@ This project demonstrates **secure authentication**, **role-based access control
 | **Development Tools** | IntelliJ IDEA, VS Code                                                  |
 | **Architecture**      | Monolithic                                                              |
 
----
-
-## 📸 Project Demo
-
-Here’s a quick walkthrough of the Loan Management System in action:
-
-> 🎥 *Add your project demo video or screenshots here once uploaded.*
-
----
 
 ## 📂 Project Structure
 
